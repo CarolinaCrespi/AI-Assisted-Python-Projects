@@ -1,5 +1,3 @@
-**Distribution_Generator.txt**
-
 This folder contains a Python script designed to generate various types of statistical distributions across different groups.
 
 ### Python File Overview:
