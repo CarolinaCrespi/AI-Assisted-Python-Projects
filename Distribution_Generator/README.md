@@ -9,7 +9,7 @@ Each script focuses on a particular distribution type, allowing you to generate 
 ### Available Distribution Types
 
 1. **Uniform Distribution:**  
-   In the script `uniform_distribution.py`, this function generates a uniform distribution where each group receives approximately the same portion of the total number of objects. Small differences are adjusted to ensure the total is correct.
+   In the script `uniform_distribution.py`, this function generates a uniform distribution where each group receives the same portion of the total number of objects. Small differences are adjusted to ensure the total is correct.
 
 2. **Increasing Distribution:**  
    In the script `increasing_distribution.py`, this function creates a distribution where each group receives a progressively larger portion of the total number of objects. The distribution is scaled to match the total number of objects.
