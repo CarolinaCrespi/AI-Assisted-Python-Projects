@@ -15,6 +15,6 @@ This repository is where I document my progress and share ideas on using AI tool
 
 Feel free to open a pull request or report an issue if you have suggestions or improvements.
 
-## First Experience with GitHub
+## New to using GitHub
 
-This is my first experience using GitHub to share my work, so please be patient and understanding if there are any mistakes or areas for improvement. I'm learning as I go and appreciate any constructive feedback!
+This is my first experience using both Python and GitHub to share my work, so please be patient and understanding if there are any mistakes or areas for improvement. I'm learning as I go and would love any constructive feedback. Thanks for checking out my projects!
